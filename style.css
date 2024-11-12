@@ -1,0 +1,36 @@
+.container {
+    width: 60vw;
+    height: 400px;
+    display: flex;
+    border: 1px solid #3b555e;
+    border-radius: 10px;
+    align-items: center;
+    background-color: rgb(144, 206, 241);
+}
+.div1 {
+    width: 50%;
+    align-items: center;
+    text-align: center;
+}
+.image {
+    width: 50%;
+    border-left: 1px solid #478a92;
+    padding: 10px;
+}
+.image img {
+    width: 100%;
+    border-radius: 10px;
+}
+.div1 h1 {
+    color: #3b555e;
+    font-size: 20px;
+}
+.div1 p {
+    color: #478a92;
+}
+.div1 button {
+    color: #fff;
+    background-color: #3b555e;
+    border-radius: 10px;
+    padding: 10px;
+}
